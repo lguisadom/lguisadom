@@ -38,8 +38,19 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-`AWS Lambda` · `API Gateway` · `DynamoDB` · `SQS` · `EventBridge` · `Step Functions`  
-`CloudWatch` · `IAM` · `S3`  
+**Backend & Serverless**
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-orange?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Amazon API Gateway](https://img.shields.io/badge/AWS-API_Gateway-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge)
+![AWS Step Functions](https://img.shields.io/badge/AWS-Step_Functions-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Amazon EventBridge](https://img.shields.io/badge/AWS-EventBridge-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Amazon SQS](https://img.shields.io/badge/AWS-SQS-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Amazon SNS](https://img.shields.io/badge/AWS-SNS-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Amazon DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-4053D6?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Amazon S3](https://img.shields.io/badge/AWS-S3-569A31?logo=amazonaws&logoColor=white&style=for-the-badge)
+![AWS IAM](https://img.shields.io/badge/AWS-IAM-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Amazon CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Amazon Cognito](https://img.shields.io/badge/AWS-Cognito-EB5F8A?logo=amazonaws&logoColor=white&style=for-the-badge)
+![AWS Secrets Manager](https://img.shields.io/badge/AWS-Secrets_Manager-232F3E?logo=amazonaws&logoColor=white&style=for-
 
 ### Data & Messaging
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
