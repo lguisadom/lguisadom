@@ -50,7 +50,7 @@
 ![AWS IAM](https://img.shields.io/badge/AWS-IAM-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Amazon CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Amazon Cognito](https://img.shields.io/badge/AWS-Cognito-EB5F8A?logo=amazonaws&logoColor=white&style=for-the-badge)
-![AWS Secrets Manager](https://img.shields.io/badge/AWS-Secrets_Manager-232F3E?logo=amazonaws&logoColor=white&style=for-
+![AWS Secrets Manager](https://img.shields.io/badge/AWS-Secrets_Manager-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
 ### Data & Messaging
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
