@@ -38,7 +38,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Backend & Serverless**
+### Backend & Serverless
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-orange?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Amazon API Gateway](https://img.shields.io/badge/AWS-API_Gateway-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![AWS Step Functions](https://img.shields.io/badge/AWS-Step_Functions-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge)
